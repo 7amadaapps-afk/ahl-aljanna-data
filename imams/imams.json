@@ -3,16 +3,17 @@
  "from": "2026-11-15",
  "to": "2026-11-21",
  "label": "الأحد 5 جمادى الآخرة ← السبت 11 جمادى الآخرة 1448 هـ",
- "updated": "الأحد 5 جمادى الآخرة",
+ "updated": "الأربعاء 8 جمادى الآخرة",
  "sources": [
   "https://t.me/moathemam/13727",
   "https://t.me/moathemam/13728",
   "https://www.al-madina.com/article/1013228",
-  "https://prh.gov.sa/ar/almasjed_alnabawi/imem-muadhen-madina"
+  "https://prh.gov.sa/ar/almasjed_alnabawi/imem-muadhen-madina",
+  "https://t.me/moathemam/13741"
  ],
  "khutba": {
   "date": "الجمعة 10 جمادى الآخرة 1448 هـ",
-  "haram": "",
+  "haram": "الشيخ أ.د. ياسر بن راشد الدوسري",
   "nabawi": ""
  },
  "days": [
